@@ -235,9 +235,6 @@ position; predict residuals then integrate) are explained in
 
 ## License
 
-No license file is included yet. Add one (e.g. MIT) before publishing if you
-want others to reuse the code. Note that OpenSim, Moco, and the Rajagopal2016
-model carry their own licenses — review them before redistributing any derived
-model files.
+This project is licensed under the [MIT License](LICENSE).
 ```
 
